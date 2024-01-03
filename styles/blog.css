@@ -9,9 +9,12 @@ div{
 }
 
 #pic {
-    border: 2px solid rgb(154, 11, 197);
-    background-size: cover;
-    align-items: center;
+    border: 2px dotted rgb(154, 11, 197);
+    /* background-size: cover; */
+    align-items: center;background-position: center;
+    background-repeat: repeat;
+    /* display: inline-block; */
+    /* height: 500px; */
     
     
 }
@@ -21,7 +24,7 @@ img{
    background-size: cover;
    border: 10px dotted rgb(228, 12, 12);
    /* display: inline-block; */
-   height: 200px;
+   height: 300px;
    background-repeat: no-repeat;
    margin: 30px;
 }
@@ -31,7 +34,7 @@ h1{
 .incident{
     border: 1px solid rgb(228, 173, 22);
     margin: 20px; /*its work left and right; */
-    height: 200px;
+    height: 4px;
     /* display: block; */
     /* display: inline-block; */
     
