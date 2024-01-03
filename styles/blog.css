@@ -1,0 +1,16 @@
+div{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+    border: 20px dotted tomato;
+    box-shadow: 30px 10px 30px blueviolet;
+    margin-bottom: 20px;
+}
+
+#pic {
+    border: 2px solid greenyellow;
+    background-size: cover;
+    align-items: center;
+    
+    
+}
